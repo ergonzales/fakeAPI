@@ -1,0 +1,9 @@
+{
+	"videos": ["videoID","videoID"],
+	"images": ["imageURL1","imageURL1","imageURL1","imageURL1","imageURL1"],
+	"suites": [
+		{"name": "One Bedroom", "image": "imageURL", "startingPrice": "xxxxx/month"},
+		{"name": "Two Bedroom", "image": "imageURL2", "startingPrice": "xxxxx/month"},
+		{"name": "Three Bedroom", "image": "imageURL2", "startingPrice": "xxxxx/month"},
+	]
+}
