@@ -4,6 +4,6 @@
 	"suites": [
 		{"name": "One Bedroom", "image": "imageURL", "startingPrice": "xxxxx/month"},
 		{"name": "Two Bedroom", "image": "imageURL2", "startingPrice": "xxxxx/month"},
-		{"name": "Three Bedroom", "image": "imageURL2", "startingPrice": "xxxxx/month"},
+		{"name": "Three Bedroom", "image": "imageURL2", "startingPrice": "xxxxx/month"}
 	]
 }
